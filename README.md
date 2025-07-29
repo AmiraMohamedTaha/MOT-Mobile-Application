@@ -20,7 +20,8 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff7dda09-45ce-446e-842e-d3ee504993a8" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f8749f5-92cd-4c8e-9005-e5574fe031d7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53ed9206-3deb-4480-980f-9751598831ae" />
+
 
 ### No Grid changes
 
