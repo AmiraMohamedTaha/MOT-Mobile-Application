@@ -32,3 +32,12 @@
 ## WebService onResponse Event:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89e00512-10c7-44e2-9d80-669218300946" />
+
+# Mobile Rotation Using Accelerometer:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20e1fb8c-2638-4988-80d4-d96c1da2357e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d65a341-c0ed-4fb4-8f6f-1166b2a38e4c" />
+
+
+
